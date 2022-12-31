@@ -228,9 +228,9 @@ Fixes unreadable music lyrics file
 [03:27.29]ありがとうさよな
 ```
 
-### fix("さよならくちびる.lrc")
+### fix("SCIENTIST.lrc")
 
-#### Original File (さよならくちびる.lrc)
+#### Original File (SCIENTIST.lrc)
 ```
 [ti:SCIENTIST]
 [ar:TWICE (&#53944;&#50752;&#51060;&#49828;)]
@@ -332,7 +332,7 @@ Fixes unreadable music lyrics file
 [03:06.45]What u waiting
 ```
 
-#### Fixed File (fixed_さよならくちびる.lrc)
+#### Fixed File (fixed_SCIENTIST.lrc)
 ```
 [ti:SCIENTIST]
 [ar:TWICE (트와이스)]
