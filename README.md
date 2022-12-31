@@ -1,8 +1,8 @@
 # Lyrics_Encoding_Fix
 
 Fixes unreadable music lyrics file due to encoding
-Chinese lyrics - Effective
-Korean lyrics - Limited
+- Chinese lyrics - Effective
+- Korean lyrics - Limited
 
 ## Example Usage
 
